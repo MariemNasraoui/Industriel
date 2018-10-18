@@ -1,0 +1,261 @@
+.center{
+    text-align: center;
+}
+.bg{
+    background-color: #fac11c;
+}
+.margin{
+    margin-bottom: 35px;
+}
+.hauteur{
+height: 85px;
+}
+.font{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
+.style{
+    font-weight:bolder;
+    font-size:37px;
+}
+.line{
+    line-height:0.6; 
+}
+.line1{
+    line-height:0.2; 
+}
+.marginT{
+    margin-top: 15px;
+}
+.bg1{
+    background-color:#202e3b;
+}
+
+.dropbtn {
+    padding: 14px 6px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #677788;
+    background-color: #202e3b;
+    border: none;
+    border-radius: 0px;
+  
+  }
+  
+  .dropbtn:hover {background-color: #fac11c}
+
+
+.hauteur1{
+    height: 310px;
+}
+.bg2{
+    background-image: url(https://previews.123rf.com/images/kadmy/kadmy1611/kadmy161100020/65192945-industrie-mini%C3%A8re-camion-%C3%A0-benne-basculante-lourd-%C3%A9norme-au-rocher-de-granit-de-transport-de-carri%C3%A8re-ou-%C3%A0-cie.jpg);
+    background-repeat: no-repeat;
+    background-size: 1550px 400px;
+}
+.marginL{
+    margin-left: 219px;
+}
+
+.color{
+color: white;
+}
+.alin{
+    text-align: justify;
+    font-size: 30px;
+}
+.button{
+    
+        position: relative;
+        background-color:#fac11c;
+        border: none;
+        font-size: 12px;
+        font-weight: normal;
+        color: #677788;
+        padding: 20px;
+        width: 200px;
+        text-align: center;
+        -webkit-transition-duration: 0.4s; /* Safari */
+        transition-duration: 0.4s;
+        text-decoration: none;
+        overflow: hidden;
+        cursor: pointer;
+}
+.mar{
+    margin-left: 222px;
+}
+.bg3{
+    background-color: #202e3b;
+}
+.hauteur2{
+    height:160px;
+}
+.size{
+font-size: 28px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bolder;
+color: #fac11c;
+}
+.hauteur3{
+    height: 55px;
+}
+.hauteur4{
+    height: 40px;
+}
+.size1{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    color: #fbf7df;  
+}
+.margin1{
+    margin-left: 160px;
+    margin-top: 34px;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.margin2{
+    margin-left:160px;
+    margin-top: 0px;
+    font-size: 18px;
+    font-weight: normal;
+}
+.marginn{
+    margin-left: 160px;
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: normal;
+}
+.margin3{
+    margin-left: 4px;
+    margin-top: -3px;
+    font-size: 29px;
+    font-weight: normal;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.color1{
+    color: #fac11c;
+}
+.margin4{
+    margin-left: 4px;
+    margin-top: 0px;
+    font-size: 18px;
+    font-weight: normal;
+font-family: Arial, Helvetica, sans-serif;
+color: #5f6f7e;
+}
+.margin5{
+    margin-left: 4px;
+    margin-top: 24px;
+    font-size: 29px;
+    font-weight: normal;
+font-family: Arial, Helvetica, sans-serif;
+}
+.margin6{
+    margin-left: 4px;
+    margin-top: 0px;
+    font-size: 18px;
+    font-weight: normal;
+font-family: Arial, Helvetica, sans-serif;
+color: #5f6f7e;
+}
+.margin7{
+    margin-left: 4px;
+    margin-top: -11px;
+    font-size: 29px;
+    font-weight: normal;
+font-family: Arial, Helvetica, sans-serif;
+}
+.margin8{
+    margin-left: 4px;
+    margin-top: 0px;
+    font-size: 18px;
+    font-weight: normal;
+font-family: Arial, Helvetica, sans-serif;
+color: #5f6f7e;
+}
+.margin9{
+    margin-left: 4px;
+    margin-top: 24px;
+    font-size: 29px;
+    font-weight: normal;
+font-family: Arial, Helvetica, sans-serif;
+}
+.margin10{
+    margin-left: 4px;
+    margin-top: 0px;
+    font-size: 18px;
+    font-weight: normal;
+font-family: Arial, Helvetica, sans-serif;
+color: #5f6f7e;
+}
+.buttonM{
+    
+    position: relative;
+    background-color:#1f2d3a;
+    border: 3px solid;
+   
+    font-size: 14px;
+    font-weight: normal;
+    color:#90a3b5;
+    padding: 20px;
+    width: 200px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;}
+
+    .buttonM:hover{background-color: #fac11c}
+
+.marM{
+margin-left: 160px;
+}
+.marginX{
+    margin-left: 225px;
+}
+.marginC{
+    margin-right: 150px;
+}
+.size2{
+    font-size: 29px;
+    text-align: justify ;
+}
+.marginxx{
+    margin-left: 222px;
+}
+.marginx1{
+    margin-left: 26px;
+}
+.size3{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5f6f7e;
+    text-align: justify;
+    font-weight: normal;
+}
+.size4{
+    text-align: justify;
+}
+.size5{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    color: #5f6f7e;  
+}
+.left1{
+    margin-left: -306px;
+}
+.left2{
+    margin-left: -174px;
+}
+.right{
+    margin-right: -50px;
+}
